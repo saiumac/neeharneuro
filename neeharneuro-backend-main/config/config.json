@@ -1,0 +1,11 @@
+{
+    "local"       : {
+      "username"  : "root",
+      "password"  : "",
+      "database"  : "neehar_neuro",
+      "host"      : "localhost",
+      "port"      : 3306,
+      "dialect"   : "mysql"
+    }
+  }
+  
